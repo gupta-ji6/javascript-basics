@@ -8,7 +8,7 @@
 * The order of execution is important in JavaScript `<script>` tags.
 * `<noscript>` tag is used to display any content whenever JavaScript is disabled by the browser.
 
-# Where should we place our `<script>` tag?
+### Where should we place our `<script>` tag?
 
 * We've two options to place our `<script>` tag - `<head>` or `<body>`.
 * The answer varies for various reasons, but the rule of thumb is to put it up in the `<body>` tag just before it closes i.e. just before `</body>`.
